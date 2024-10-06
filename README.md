@@ -1,0 +1,2 @@
+# GIT-REMOTE
+latihan GIT REMOTE
